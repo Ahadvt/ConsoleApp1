@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;  
+}
+.header{
+    background-color: rgb(239, 187, 14);
+    height: 100%;
+}
+.header h1{
+    color: #ffff;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 100px;
+}
+.header .menyu{
+    width: 80%;
+    height: 800px;
+    background-color: #ffff;
+   margin-left: 120px;
+}
+.menyu .nav{
+    height: 4%;
+    background-color: #F2DBA4;
+}
+.innav{
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    background-color: #ffff;
+    border-radius: 50%;
+    margin-bottom: -30px;
+    margin-left: 5px;
+}
+.onnav{
+    display: inline-block;
+    margin-left: 120px;
+}
+.photo{
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+    margin-left: 440px;
+    margin-top: 40px;
+}
+.menyu p{
+    text-align: center;
+    text-transform: uppercase;
+    margin-left: -27px;
+    font-weight: 300;
+    margin-top: 10px; 
+    word-wrap: break-word;
+}
+a{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.466);
+}
+.icon{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: -30px;
+}
+.icon i{
+    color: rgb(128, 128, 128);
+    padding: 15px;
+    font-size: 30px;
+}
+ ul{
+    list-style-type: none;
+}
+ul li{
+    
+    margin-top: 5px;
+}
+ul li a{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #ffff;
+    width: 450px;
+    height: 50px;
+    background-color: #2AA4E7;
+    text-align: center;
+    padding: 10px;
+}
